@@ -13,22 +13,21 @@ Specifically, I drove the entire pipeline:
 
 ## 🔗 Live Link  
 👉 [Click here to explore the deployed dashboard](http) 
-📥 [Click here to explore the Power BI report](http) 
 
 ## 🖼️ Visual Previews
 ### Streamlit Interactive Dashboard Preview
 This view highlights the dynamic, interactive nature of the web application, featuring the collapsed filters and Plotly visuals.
-![Streamlit Interactive Dashboard Preview](Preview_Dashboard_Streamlit.png)
-![Streamlit Interactive Dashboard Preview](Preview_Dashboard_Streamlit.png)
-![Streamlit Interactive Dashboard Preview](Preview_Dashboard_Streamlit.png)
+![Streamlit Interactive Dashboard Page 1](imgs/dashboard_page1.png)
+![Streamlit Interactive Dashboard Page 2](imgs/dashboard_page2.png)
+![Streamlit Interactive Dashboard Page 3](imgs/dashboard_page3.png)
 
 ---
 
 ### Power BI Professional Report Preview
 This represents the clean, static, multi-page layout optimized for print, demonstrating DAX measures and sophisticated data visualization.
-![Power BI Professional Report Preview](Preview_Report_PowerBI.png)
-![Power BI Professional Report Preview](Preview_Report_PowerBI.png)
-![Power BI Professional Report Preview](Preview_Report_PowerBI.png)
+![Power BI Professional Report Page 1](imgs/report_page1.jpg)
+![Power BI Professional Report Page 2](imgs/report_page2.jpg)
+![Power BI Professional Report Page 3](imgs/report_page3.jpg)
 
 ## ✨ Features  
 - 🧹 **Robust Data Cleaning (Python/Pandas):** Handled mixed data types, imputed missing age and location values, and standardized text categories (e.g., *"UNKNOWN"*).
@@ -84,9 +83,9 @@ This project uncovered several actionable findings crucial for public safety res
 │   ├── incidents_by_day_of_week.png
 │   ├── severity_by_relationship_stacked.png
 │   ├── top_10_bite_circumstances.png
-│   ├── report_page1.png
-│   ├── report_page2.png
-│   ├── report_page3.png
+│   ├── report_page1.jpg
+│   ├── report_page2.jpg
+│   ├── report_page3.jpg
 │   ├── dashboard_page1.png
 │   ├── dashboard_page2.png
 │   └── dashboard_page3.png
