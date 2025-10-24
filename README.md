@@ -98,6 +98,7 @@ This project uncovered several actionable findings crucial for public safety res
 ├── eda.ipynb
 ├── streamlit_app.py
 │
+├── requirements.txt
 └── README.md
 ```
 
