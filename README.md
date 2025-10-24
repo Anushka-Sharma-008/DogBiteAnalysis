@@ -12,7 +12,7 @@ Specifically, I drove the entire pipeline:
 - **Dual-Platform Deployment:** Presented final outputs as an **Interactive Streamlit Application** for real-time exploration and a **Professional Power BI Report** using **DAX** for sophisticated proportional metrics, optimized for high-quality **PDF export**.
 
 ## 🔗 Live Link  
-👉 [Click here to explore the deployed dashboard](http) 
+👉 [Click here to explore the deployed dashboard](https://dogbiteanalytics.streamlit.app/) 
 
 ## 🖼️ Visual Previews
 ### Streamlit Interactive Dashboard Preview
